@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **20-year-old aspiring Data Scientist & ML Engineer**, passionate about turning raw data into meaningful insights.  
+I'm a **aspiring Data Scientist & ML Engineer**, passionate about turning raw data into meaningful insights.  
 Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solving** through projects and experimentation.  
 
 <img align="right" alt="coding gif" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -51,6 +51,20 @@ Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solv
  • A Python-based voice bot that listens, talks, and performs tasks like opening websites, playing music, and chatting using Azure AI.  
 • **Tech Used:** `Python`, `SpeechRecognition`, `pyttsx3`, `sounddevice`, `Azure AI`  
 
+### 🛍️ [E-Commerce Data Analytics Dashboard](https://github.com/NAMANPREET19/E-Commerce-Data-Analytics)
+
+An interactive **sales analysis dashboard** built with Streamlit using the Sample Superstore dataset.  
+The app enables users to explore sales and profit trends across different years, categories, and customer segments through **dynamic visualizations** and filters.  
+
+🔗 **Live Demo:** [Streamlit App](https://e-commerce-data-analytics-aotmz5ps3xvkctnevvrnth.streamlit.app/)
+
+• Built an interactive sales analytics dashboard in Streamlit using the Sample Superstore dataset, enabling real-time visualization of category, segment, and profit trends.
+
+• Developed an E-commerce data dashboard with Python and Streamlit for analyzing sales patterns through dynamic Pandas-based filtering and visual insights.
+
+• Created a Streamlit dashboard leveraging Pandas, Seaborn, and Matplotlib to visualize multi-year sales and profit trends for data-driven business insights. 
+
+**Tech Stack:** `Python`, `Streamlit`, `Pandas`, `Altair`, `Seaborn`, `Matplotlib`
 
 
 ---
