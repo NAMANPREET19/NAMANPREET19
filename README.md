@@ -77,3 +77,8 @@ Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solv
 <h3 align="center">✨ "The best way to predict the future is to create it." — Peter Drucker ✨</h3>
 
 <img align="center" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
