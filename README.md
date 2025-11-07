@@ -79,6 +79,8 @@ Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solv
 <img align="center" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 
 
-<br clear="both">
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NAMANPREET19/NAMANPREET19/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
