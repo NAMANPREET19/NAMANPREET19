@@ -47,9 +47,7 @@ Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solv
 
 ### 🧩 Featured Project  
 
-#### 🎙️ [Jarvis (AI Voice Assistant)](https://github.com/NAMANPREET19/Jarvis)
- • A Python-based voice bot that listens, talks, and performs tasks like opening websites, playing music, and chatting using Azure AI.  
-• **Tech Used:** `Python`, `SpeechRecognition`, `pyttsx3`, `sounddevice`, `Azure AI`  
+
 
 ### 🛍️ [E-Commerce Data Analytics Dashboard](https://github.com/NAMANPREET19/E-Commerce-Data-Analytics)
 
@@ -66,7 +64,30 @@ The app enables users to explore sales and profit trends across different years,
 
 **Tech Stack:** `Python`, `Streamlit`, `Pandas`, `Altair`, `Seaborn`, `Matplotlib`
 
+### 🛒🛍️[LeafyCart](https://github.com/NAMANPREET19/LeafyCart)🌿
 
+This is a responsive **E-Commerce Store** built using **HTML, CSS, and JavaScript**.  
+It provides a simple and elegant interface for browsing and purchasing clothing items.
+
+🛍️ Features
+- Clean and minimal design  
+- Smooth navigation  
+- Interactive product displays  
+- Realistic online shopping experience  
+
+📂 Folder Structure
+- `Homepage` – Landing and main store page  
+- `Cart` – Shopping cart interface  
+- `Jackets`, `Casualwear`, `Formalwear`, `Jeans`, `Sweatshirts`, `Trackpants`, `Tracksuits` – Product sections  
+
+🚀 Future Plans
+- Add backend functionality  
+- Integrate payment gateway  
+- Add user authentication  
+
+#### 🎙️ [Jarvis (AI Voice Assistant)](https://github.com/NAMANPREET19/Jarvis)
+ • A Python-based voice bot that listens, talks, and performs tasks like opening websites, playing music, and chatting using Azure AI.  
+• **Tech Used:** `Python`, `SpeechRecognition`, `pyttsx3`, `sounddevice`, `Azure AI`  
 ---
 
 ### 📊 GitHub Stats  
