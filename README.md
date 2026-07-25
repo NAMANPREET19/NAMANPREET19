@@ -8,13 +8,13 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **aspiring Data Scientist & ML Engineer**, passionate about turning raw data into meaningful insights.  
+I'm an **aspiring Data Scientist & ML Engineer**, passionate about turning raw data into meaningful insights.  
 Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solving** through projects and experimentation.  
 
 <img align="right" alt="coding gif" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently working on personal AI and ML projects  
-- 🌱 Learning advanced **data preprocessing** and **model evaluation** techniques  
+- 🌱 Learning advanced **data preprocessing**, **model evaluation**, and **RAG pipelines**  
 - 🧠 Exploring the depth of algorithms, visualization, and automation  
 - ⚡ Fun fact: I debug more than I sleep 😄  
 
@@ -36,68 +36,67 @@ Currently exploring **Machine Learning**, **AI**, and **data-driven problem-solv
 <a href="https://matplotlib.org/stable/index.html"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" /></a>
 <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge&logo=seaborn&logoColor=white" /></a>
 <a href="https://scikit-learn.org/stable/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
+<a href="https://plotly.com/python/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+
+#### 🤖 **AI & NLP**
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Groq%20LLM-F55036?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 #### ⚙️ **Frameworks & Tools**
 <a href="https://flask.palletsprojects.com/en/latest/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 <a href="https://aws.amazon.com/documentation/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 <a href="https://git-scm.com/doc"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href="https://code.visualstudio.com/docs"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
 
 ---
 
-### 🧩 Featured Project  
+### 🧩 Featured Projects  
 
+#### 🎥 [AI YouTube Chatbot (RAG-based)](https://github.com/NAMANPREET19/Youtube-Chatbot)
 
+An intelligent YouTube chatbot that retrieves video transcripts and answers questions about any video in real time, powered by a **Retrieval-Augmented Generation (RAG)** pipeline.
 
-### 🛍️ [E-Commerce Data Analytics Dashboard](https://github.com/NAMANPREET19/E-Commerce-Data-Analytics)
+- 🔎 Semantic vector search over transcript chunks using **LangChain**, **Hugging Face embeddings**, and **FAISS**
+- ⚡ Fast, context-aware, timestamp-aware responses generated via **Groq LLM**
+- 🧩 **FastAPI** backend paired with a **Chrome Extension** front end for querying videos directly from YouTube
 
-An interactive **sales analysis dashboard** built with Streamlit using the Sample Superstore dataset.  
-The app enables users to explore sales and profit trends across different years, categories, and customer segments through **dynamic visualizations** and filters.  
-
-🔗 **Live Demo:** [Streamlit App](https://e-commerce-data-analytics-aotmz5ps3xvkctnevvrnth.streamlit.app/)
-
-• Built an interactive sales analytics dashboard in Streamlit using the Sample Superstore dataset, enabling real-time visualization of category, segment, and profit trends.
-
-• Developed an E-commerce data dashboard with Python and Streamlit for analyzing sales patterns through dynamic Pandas-based filtering and visual insights.
-
-• Created a Streamlit dashboard leveraging Pandas, Seaborn, and Matplotlib to visualize multi-year sales and profit trends for data-driven business insights. 
-
-**Tech Stack:** `Python`, `Streamlit`, `Pandas`, `Altair`, `Seaborn`, `Matplotlib`
-
-### 🛒🛍️[LeafyCart](https://github.com/NAMANPREET19/LeafyCart)🌿
-
-This is a responsive **E-Commerce Store** built using **HTML, CSS, and JavaScript**.  
-It provides a simple and elegant interface for browsing and purchasing clothing items.
-
-🛍️ Features
-- Clean and minimal design  
-- Smooth navigation  
-- Interactive product displays  
-- Realistic online shopping experience  
-
-📂 Folder Structure
-- `Homepage` – Landing and main store page  
-- `Cart` – Shopping cart interface  
-- `Jackets`, `Casualwear`, `Formalwear`, `Jeans`, `Sweatshirts`, `Trackpants`, `Tracksuits` – Product sections  
-
-🚀 Future Plans
-- Add backend functionality  
-- Integrate payment gateway  
-- Add user authentication  
-
-#### 🎙️ [Jarvis (AI Voice Assistant)](https://github.com/NAMANPREET19/Jarvis)
- • A Python-based voice bot that listens, talks, and performs tasks like opening websites, playing music, and chatting using Azure AI.  
-• **Tech Used:** `Python`, `SpeechRecognition`, `pyttsx3`, `sounddevice`, `Azure AI`  
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NAMANPREET19&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAMANPREET19&layout=compact&theme=tokyonight" />
-</p>
+**Tech Stack:** `Python`, `LangChain`, `Groq LLM`, `FAISS`, `Hugging Face`, `FastAPI`, `Chrome Extension`
 
 ---
+
+#### 🛍️ [E-Commerce Data Analytics & Loss Prediction](https://github.com/NAMANPREET19/E-Commerce-Data-Analytics)
+
+An interactive **sales analytics dashboard** built with Streamlit, analyzing 9,950+ transaction records to surface sales trends, profit margins, customer segments, and regional performance — plus a loss-prediction classification model.
+
+🔗 **Live Demo:** [Streamlit Dashboard](https://namanpreet19-e-commerce-data-analytics-home-fatwqy.streamlit.app/)
+
+- 📊 Interactive dashboard with SQLite-backed storage and querying
+- 🌲 Loss-prediction model tuned with **GridSearchCV**, reaching **94.7% accuracy with Decision Trees** — benchmarked against Random Forest (94.6%)
+- 📈 KPI visualizations built with **Plotly** and **Matplotlib**, deployed for stakeholder-ready reporting
+
+**Tech Stack:** `Python`, `Streamlit`, `Pandas`, `NumPy`, `Matplotlib`, `SQL`, `Scikit-Learn`, `Plotly`
+
+---
+
+#### 🎬 [Movie Recommender System](https://github.com/NAMANPREET19/Movie-Recommender-System)
+
+A content-based movie recommendation engine built on the TMDB movies and credits datasets (4,885 titles).
+
+🔗 **Live Demo:** [Streamlit App](https://namanpreet19-movie-recommender-system-app-qklzbi.streamlit.app/)
+
+- 🧬 Merged and engineered features from genres, cast, crew, and keywords
+- 🧮 **CountVectorizer** + **Cosine Similarity** for personalized, similarity-ranked recommendations
+- 🎞️ Integrated the **TMDB API** for live poster/metadata retrieval, with an interactive Streamlit app for real-time search
+
+**Tech Stack:** `Python`, `Streamlit`, `Pandas`, `NumPy`, `Scikit-Learn`
+
+---
+
 
 ### 🌐 Connect With Me  
 
@@ -113,9 +112,7 @@ It provides a simple and elegant interface for browsing and purchasing clothing 
 
 <img align="center" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 
-
 ### 🐍 My Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/NAMANPREET19/NAMANPREET19/output/snake.svg" alt="Snake animation" />
 </p>
-
