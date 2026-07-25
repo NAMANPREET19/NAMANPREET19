@@ -97,6 +97,20 @@ A content-based movie recommendation engine built on the TMDB movies and credits
 
 ---
 
+#### 📧 [Gmail AI Resume Sender](https://github.com/NAMANPREET19/gmail-ai-resume-sender)
+
+An AI-powered Gmail automation tool that reads recruiter details from Excel and sends personalized, resume-attached job application emails end-to-end.
+
+- 🤖 Generates personalized outreach emails using **Gemini AI**
+- 📤 Sends emails with resume attachments via the **Gmail API**
+- ✅ Validates recruiter email addresses and updates the spreadsheet with delivery status in real time
+
+**Tech Stack:** `Python`, `Gemini AI`, `Gmail API`, `Google Sheets`
+
+
+
+
+---
 
 ### 🌐 Connect With Me  
 
